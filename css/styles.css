@@ -193,6 +193,7 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
+margin-bottom: 8px;
 }
 
 .list-item-features {
@@ -220,12 +221,11 @@ width: calc((100% - 72px) / 4);
 .team-list {
         display: flex;
         flex-wrap: wrap;
-        gap: 48px 24px;
+        gap: 24px;
 }
 
 .list-team-item{
     border-radius: 0 0 4px 4px;
-        padding-block: 0px 32px;
         padding-inline: 0px;
         width: 264px;
         height: 380px;
@@ -291,6 +291,7 @@ width: calc((100% - 72px) / 4);
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;
+        margin-bottom: 8px;
 }
 
 .portfolio-item-description {
