@@ -129,14 +129,12 @@ font-family: "Raleway", sans-serif;
 /*hero*/
 .hero-section {
     background: #2e2f42;
-        padding-top: 188px;
-        padding-bottom: 292px;
+    padding: 188px 0;
 }
 
 .hero-title {
     max-width: 496px;
-    margin: 0 auto;
-    margin-bottom: 48px;
+    margin: 0 auto 48px;
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
