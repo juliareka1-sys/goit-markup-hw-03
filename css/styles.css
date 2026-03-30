@@ -228,7 +228,6 @@ width: calc((100% - 72px) / 4);
         border-radius: 0 0 4px 4px;
         padding-inline: 0px;
         width: 264px;
-        height: 380px;
         box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
         background: #fff;
 }
@@ -281,8 +280,6 @@ width: calc((100% - 72px) / 4);
         border-right: 1px solid #e7e9fc;
         padding-block: 32px;
         padding-inline: 16px;
-        width: 360px;
-        height: 120px;
 }
 
 .portfolio-item-title {
