@@ -225,7 +225,7 @@ width: calc((100% - 72px) / 4);
 }
 
 .list-team-item{
-    border-radius: 0 0 4px 4px;
+        border-radius: 0 0 4px 4px;
         padding-inline: 0px;
         width: 264px;
         height: 380px;
